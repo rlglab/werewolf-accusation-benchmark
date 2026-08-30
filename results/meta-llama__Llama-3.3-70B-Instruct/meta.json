@@ -1,0 +1,7 @@
+{
+  "model_id": "meta-llama/Llama-3.3-70B-Instruct",
+  "family": "Llama",
+  "size_b": 70,
+  "reasoning": false,
+  "size_group": ">=30B"
+}

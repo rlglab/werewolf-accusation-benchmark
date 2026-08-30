@@ -1,0 +1,6 @@
+# Python >= 3.10 is required (the code uses PEP 604 unions and dataclass slots).
+# Versions below are the ones used for the paper's numbers.
+pandas>=2.0,<3
+pyarrow>=14
+scipy>=1.10
+openai>=1.30

@@ -1,0 +1,7 @@
+{
+  "model_id": "mistralai/Ministral-3-3B-Instruct-2512",
+  "family": "Mistral",
+  "size_b": 3,
+  "reasoning": false,
+  "size_group": "<=4B"
+}

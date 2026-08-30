@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.python-version
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Local scratch (evaluate.py smoke tests, notebooks, etc.)
+scratch/
+*.ipynb_checkpoints/
+.claude/
+
+# Paper PDF (not part of the release)
+*.pdf

@@ -1,0 +1,7 @@
+{
+  "model_id": "zai-org/GLM-4.7-Flash",
+  "family": "GLM",
+  "size_b": 30,
+  "reasoning": true,
+  "size_group": ">=30B"
+}

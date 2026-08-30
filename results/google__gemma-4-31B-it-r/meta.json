@@ -1,0 +1,7 @@
+{
+  "model_id": "google/gemma-4-31B-it-r",
+  "family": "Gemma",
+  "size_b": 31,
+  "reasoning": true,
+  "size_group": ">=30B"
+}

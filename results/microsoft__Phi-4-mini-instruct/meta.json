@@ -1,0 +1,7 @@
+{
+  "model_id": "microsoft/Phi-4-mini-instruct",
+  "family": "Phi",
+  "size_b": 3.8,
+  "reasoning": false,
+  "size_group": "<=4B"
+}

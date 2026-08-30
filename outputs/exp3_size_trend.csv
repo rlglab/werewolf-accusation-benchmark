@@ -1,0 +1,13 @@
+quantity,n_models,spearman_rho,spearman_p
+villager_accuser__target_shift__trust,40,0.0727,0.6559269884295239
+villager_accuser__target_shift__neutral,40,-0.1373,0.3981142717848892
+villager_accuser__target_shift__distrust,40,-0.3662,0.02012596268986816
+villager_accuser__accuser_shift__trust,40,0.1766,0.27563082669726763
+villager_accuser__accuser_shift__neutral,40,0.1245,0.4438642641939014
+villager_accuser__accuser_shift__distrust,40,0.4542,0.0032414172994326366
+wolf_accuser__target_shift__trust,40,0.1339,0.4099508281570526
+wolf_accuser__target_shift__neutral,40,0.0312,0.8484064360586712
+wolf_accuser__target_shift__distrust,40,-0.3726,0.017892449080799955
+wolf_accuser__accuser_shift__trust,40,0.1987,0.2190115089161969
+wolf_accuser__accuser_shift__neutral,40,0.4325,0.005320549155480147
+wolf_accuser__accuser_shift__distrust,40,0.6323,1.2045856827063136e-05

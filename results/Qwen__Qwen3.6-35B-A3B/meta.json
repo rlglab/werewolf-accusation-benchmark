@@ -1,0 +1,7 @@
+{
+  "model_id": "Qwen/Qwen3.6-35B-A3B",
+  "family": "Qwen",
+  "size_b": 35,
+  "reasoning": true,
+  "size_group": ">=30B"
+}

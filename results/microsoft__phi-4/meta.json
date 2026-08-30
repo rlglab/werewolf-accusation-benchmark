@@ -1,0 +1,7 @@
+{
+  "model_id": "microsoft/phi-4",
+  "family": "Phi",
+  "size_b": 14,
+  "reasoning": false,
+  "size_group": "10-29B"
+}

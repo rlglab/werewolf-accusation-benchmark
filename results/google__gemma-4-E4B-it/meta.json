@@ -1,0 +1,7 @@
+{
+  "model_id": "google/gemma-4-E4B-it",
+  "family": "Gemma",
+  "size_b": 4,
+  "reasoning": false,
+  "size_group": "<=4B"
+}

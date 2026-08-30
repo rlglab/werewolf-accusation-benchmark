@@ -1,0 +1,7 @@
+{
+  "model_id": "openai/gpt-oss-120b",
+  "family": "GPT-OSS",
+  "size_b": 120,
+  "reasoning": true,
+  "size_group": ">=30B"
+}

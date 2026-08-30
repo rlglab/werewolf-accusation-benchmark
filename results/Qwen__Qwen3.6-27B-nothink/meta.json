@@ -1,0 +1,7 @@
+{
+  "model_id": "Qwen/Qwen3.6-27B-nothink",
+  "family": "Qwen",
+  "size_b": 27,
+  "reasoning": false,
+  "size_group": "10-29B"
+}

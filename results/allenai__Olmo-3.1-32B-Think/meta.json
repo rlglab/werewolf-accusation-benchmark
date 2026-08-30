@@ -1,0 +1,7 @@
+{
+  "model_id": "allenai/Olmo-3.1-32B-Think",
+  "family": "Olmo",
+  "size_b": 32,
+  "reasoning": true,
+  "size_group": ">=30B"
+}

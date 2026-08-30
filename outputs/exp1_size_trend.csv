@@ -1,0 +1,4 @@
+quantity,n_models,spearman_rho,spearman_p
+true_villager,40,-0.2277,0.15754448768164886
+true_wolf,40,0.3751,0.017073148038538537
+separation,40,0.5373,0.00035061373931075633

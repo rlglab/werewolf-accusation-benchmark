@@ -1,0 +1,7 @@
+{
+  "model_id": "Qwen/Qwen3.5-9B",
+  "family": "Qwen",
+  "size_b": 9,
+  "reasoning": true,
+  "size_group": "5-9B"
+}

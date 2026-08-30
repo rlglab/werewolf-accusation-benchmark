@@ -1,0 +1,7 @@
+{
+  "model_id": "nvidia/NVIDIA-Nemotron-Nano-9B-v2",
+  "family": "Nemotron",
+  "size_b": 9,
+  "reasoning": true,
+  "size_group": "5-9B"
+}
